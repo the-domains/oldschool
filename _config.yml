@@ -1,0 +1,14 @@
+layout_spectrum: 0.5768172
+typography_spectrum: 0.4354177
+color:
+  saturation: 0.4641805
+  lightness: 0.7879475
+  brandStrength: 0.1793684
+  rhythmicContrast: 0.6237267
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: oldschool
